@@ -1,0 +1,17 @@
+body{font-family:'Nanum Gothic', sans-serif}
+.header {padding: 50px;
+  text-align: center;
+  font-size: 35px;
+  background-color: rgb(143, 201, 252);
+  font-family: 'Noto Sans KR', sans-serif;
+  font:bold}
+
+.column {display: flex;
+  background-color: rgb(244, 255, 224);
+  float: left;
+  padding: 35px;
+  height: 850px;
+  margin-right: 50px}
+  .img{position: absolute;  right: 35%; top: 30%;  margin: auto }
+
+
